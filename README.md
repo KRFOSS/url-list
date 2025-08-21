@@ -6,7 +6,6 @@
 |https://krfoss.org/new|New Main Page|
 |https://http.krfoss.org|분산 미러|
 |https://blog.krfoss.org|블로그|
-|https://cdn.krfoss.org|CDN|
 |https://chat.krfoss.org|커뮤니티|
 |https://dalcom.krfoss.org|달콤프로젝트|
 |https://dns.krfoss.org|RF-DNS|
